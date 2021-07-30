@@ -1,0 +1,35 @@
+#formulario{
+    background: rgb(11, 11, 107);
+    padding: 45px;
+}
+
+.form-titulo{
+    background: burlywood;
+    color: crimson;
+    padding: 20px;
+    text-align: center;
+    border-bottom: rgb(12, 104, 104) solid 4px;
+    font-family: cursive;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.form-registro{
+    width: 95%;
+    margin: auto;
+    max-width: 500px;
+    background: white;
+    border-radius: 8px;
+}
+
+.contenedor-input{
+    padding: 10px 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+

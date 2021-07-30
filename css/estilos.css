@@ -1,0 +1,45 @@
+@import url(formulario.css);
+@import url(cat.css);
+
+.carousel-inner{
+    width: 70%;
+    margin: auto;
+}
+
+.localizacion{
+    width: 60%;
+    margin: auto;
+
+}
+
+.ubicacion{
+    width: 40%;
+    margin: auto;
+
+}
+body{
+    background: yellowgreen;
+}
+.fondo{
+    background-image: url('../img/fondo1.jpg');}
+
+
+
+.col {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;}
+
+.card{
+    width: 700px * 700px;
+    margin: auto;
+
+
+}
+
